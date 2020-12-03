@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Level">
+    <Position X="6.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAACAAAAAAAAAAAAABAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadScenes">
+    <Position X="1.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\LoadScenes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Profile">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEACCAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Profile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveText">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sling">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAEAAAAABAAAAAAAAAAAACAAIDgwAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\Sling.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="prefBullet" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Target">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Target.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="UnityEngine.GameObject" Collapsed="true">
+    <Position X="3.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
